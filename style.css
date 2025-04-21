@@ -30,7 +30,12 @@ body {
     font-size: 4rem;
     text-shadow: 2px 2px 8px #000;
   }
-  
+
+  .carousel-item img {
+    object-fit: cover;
+    height: 400px;
+  }
+
   
   .footer {
     padding: 20px 0;
