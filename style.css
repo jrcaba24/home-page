@@ -36,6 +36,17 @@ body {
     height: 400px;
   }
 
+  .card {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    color: #ccc;
+  }
+  
+  .card:hover {
+    border-color: #ff5722;
+    transform: scale(1.02);
+    transition: 0.3s;
+  }
   
   .footer {
     padding: 20px 0;
