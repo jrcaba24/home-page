@@ -1,0 +1,26 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .navbar, .footer {
+    background-color: #1f1f1f;
+  }
+  
+  .nav-link, .navbar-brand {
+    color: #e0e0e0;
+  }
+  
+  .nav-link:hover {
+    color: #ff5722;
+  }
+  
+
+  
+  .footer {
+    padding: 20px 0;
+    text-align: center;
+    color: #bbb;
+  }
+  
