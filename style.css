@@ -16,7 +16,21 @@ body {
     color: #ff5722;
   }
   
-
+  #hero {
+    background: url('./assets/background2.png') center/cover no-repeat;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  #hero h1 {
+    font-size: 4rem;
+    text-shadow: 2px 2px 8px #000;
+  }
+  
   
   .footer {
     padding: 20px 0;
